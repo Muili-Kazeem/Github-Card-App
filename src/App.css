@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap');
+
 .app {
     display: flex;
     flex-direction: column;
@@ -5,14 +7,15 @@
 
 .header {
 	text-align: center;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   margin: 2rem;
   font-weight: 700;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Outfit', sans-serif;
 }
 
 .dev {
     font-size: 0.9rem;
+    font-family: 'Outfit', sans-serif;
     text-decoration: none;
     text-align: right;
     color: rgb(3, 3, 41);
